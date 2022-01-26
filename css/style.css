@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", "sans-serif";
+  text-align: center;
+}
+.qr-code {
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  margin: 100px auto 100px auto;
+  border-radius: 30px;
+}
+img {
+  width: 100%;
+  border-radius: 30px;
+}
+p {
+  font-size: 15px;
+  background-color:Grayish blue: hsl(220, 15%, 55%);
+}
+h1{
+    color:hsl(218, 44%, 22%);
+}
